@@ -1,6 +1,6 @@
 # HTTP Health Check Troubleshooting Lab
 
-**The server is running — why is the health check failing?**
+**The server is running - why is the health check failing?**
 
 ![Running server with a failed request to /health and a successful request to /healthz](screenshots/illustration.png)
 
