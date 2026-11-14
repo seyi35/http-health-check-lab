@@ -1,0 +1,7 @@
+# Vim temporary and backup files
+*.swp
+*.swo
+*~
+
+# Windows thumbnail cache
+Thumbs.db
